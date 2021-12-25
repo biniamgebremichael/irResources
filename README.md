@@ -1,2 +1,2 @@
 # irResources
-Information Retrieval Resources
+Information Retrieval processing resources for Amharic and Tigrinya Languages

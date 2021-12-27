@@ -1,7 +1,9 @@
-# irResources
-Information Retrieval processing resources for Amharic and Tigrinya Languages
+# Resources for Information Retrieval for Amharic and Tigrinya Languages
+1. Stop words
+2. Transliteration using soundex algorithm
+3. Partial stemmer (prefix and suffix removal)
 
-## Sting normalization
+## Usage: string normalization steps
 1. replace "'" with " እ" 
 2. remove punctuations and non geez characters ( /[\x{135D}-\x{1368}]+/u/ )
 3. remove stop words
